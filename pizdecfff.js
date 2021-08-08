@@ -93,7 +93,7 @@ module.exports =  (_ => {
 		};
 		
 		
-		let state = false
+		let state = true
 		var settings = {};
 		
 		let buttonName = "start"
