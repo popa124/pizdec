@@ -2,7 +2,7 @@
  * @name pizdec
  * @author popa
  * @authorId 427395135379079169
- * @source https://raw.githubusercontent.com/popa124/pizdec/main/pizdecfff.js
+ * @source https://raw.githubusercontent.com/popa124/pizdec/main/pizdecfff.js?token=AVEGZXSHTOI6JBACRELDLWDBCBFWM
  */
  /*@cc_on
 @if (@_jscript)
